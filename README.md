@@ -1,0 +1,2 @@
+# TR-AAE
+We propose a way of deep collaborative filtering with Adversarial Autoencoders(AAES) for tag recommendation with a multinomial likelihood function. Our probability model is able to exceed the limited modeling capabilities of linear models and allows us to explore the complex co-occurrence relationships between tags and items on large-scale tag recommendation datasets. In addition, label smoothing is introduced to alleviate overfitting, and adjusted to tag recommendation scenario by modify the construction of the true probability.
